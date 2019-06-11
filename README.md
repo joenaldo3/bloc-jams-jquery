@@ -7,3 +7,5 @@ User Stories include:
 * include standard music controls for playing, pausing, skipping forward/backward, and adjusting the volume.
 
 Visit my deployed site here: https://jnaldo-bloc-jams.netlify.com/
+
+<img src="assets/images/blocjams-screenshot.png">
